@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Math_Master(Basic Quiz app)</string>
+    <string name="correct">Correct!</string>
+    <string name="play_again">Play Again</string>
+</resources>
